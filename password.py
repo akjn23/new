@@ -7,7 +7,7 @@ def passtyyyy():
      
      nouns = ['apple', 'dinosaur', 'ball',
      'toaster', 'goat', 'dragon',
-     'hammer', 'duck', 'panda']
+     'hammer', 'duck', 'panda','python','hello']
 
      adjectives = ['sleepy', 'slow', 'smelly',
      'wet', 'fat', 'red',
@@ -32,6 +32,7 @@ while True:
     ans = input('enter yes or no')
     if ans=='yes':
         break
+ input("press enter to exit")
 
 
 
