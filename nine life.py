@@ -2,7 +2,7 @@ import random
 
 
 
-words=['hello','fine','brilliant','amigos']
+words=['hello','fine','brilliant','amigos','hurrah','tronix']
 guess=random.choice(words)
 z=len(guess)
 #print(guess)
@@ -32,11 +32,11 @@ tou=int(input('''SELECT DIFFICULTY LEVEL
       MEDIUM-2,
       HARD-3
      '''))
-if tou==1
+if tou==1:
     c=12
-elif tou==2
+elif tou==2:
     c=9
-elif tou==3
+elif tou==3:
     c=6
 
     
